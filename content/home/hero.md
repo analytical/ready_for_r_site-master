@@ -5,7 +5,7 @@ headless: true
 active: true
 weight: 10
 
-title: "Ready for R"
+title: "Estadística para Química Analítica"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media: tidyverse-default.png
