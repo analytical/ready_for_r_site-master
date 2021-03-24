@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading policy | Estadística para Química Analítica</title>
+    <link>https://ready4r.netlify.com/reading/</link>
+      <atom:link href="https://ready4r.netlify.com/reading/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reading policy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <image>
+      <url>https://ready4r.netlify.com/img/social-image.png</url>
+      <title>Reading policy</title>
+      <link>https://ready4r.netlify.com/reading/</link>
+    </image>
+    
+    <item>
+      <title>Loading Data from Excel, data.frames, and ggplot2</title>
+      <link>https://ready4r.netlify.com/reading/02-reading/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://ready4r.netlify.com/reading/02-reading/</guid>
+      <description>
+
+
+&lt;div id=&#34;suggested-readings&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Suggested Readings&lt;/h2&gt;
+&lt;p&gt;Nick Tierney’s &lt;a href=&#34;https://rmd4sci.njtierney.com&#34;&gt;RMarkdown for Scientists&lt;/a&gt; is an excellent resource for understanding RMarkdown. We’ll be drawing on it for more classes.&lt;/p&gt;
+&lt;p&gt;For right now, I’d like you to look over the Workflow section:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://rmd4sci.njtierney.com/workflow.html&#34; class=&#34;uri&#34;&gt;https://rmd4sci.njtierney.com/workflow.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And the &lt;em&gt;Using RMarkdown&lt;/em&gt; section:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://rmd4sci.njtierney.com/using-rmarkdown.html&#34; class=&#34;uri&#34;&gt;https://rmd4sci.njtierney.com/using-rmarkdown.html&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;practice-your-ggplot2-skills&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Practice your ggplot2 skills&lt;/h2&gt;
+&lt;p&gt;After this lecture, you now know enough to get started in the interactive R-Bootcamp. You can start with chapter 1:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://r-bootcamp.netlify.com/chapter1&#34; class=&#34;uri&#34;&gt;https://r-bootcamp.netlify.com/chapter1&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to R/RStudio</title>
+      <link>https://ready4r.netlify.com/reading/01-reading/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ready4r.netlify.com/reading/01-reading/</guid>
+      <description>
+
+
+&lt;div id=&#34;required&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Required&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ismayc.github.io/rbasics-book/3-rstudiobasics.html&#34;&gt;R and RStudio Basics&lt;/a&gt; - make sure to watch the videos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;practice&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Practice&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;In the Part 1 RStudio project, there is a document called “Practicing with Swirl” which will point you to how to run an interactive tutorial in RStudio to reinforce concepts in the lab.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
