@@ -1,0 +1,41 @@
+lessons:
+  - title: '<span class="fake-header-table">Getting to Know R/RStudio</span>'
+    header: True
+
+  - title: '**Lecture/Lab 1: RStudio, Functions, Objects, and Data Types**'
+    date: "April 9"
+    reading: "01-reading"
+    class: "01-class"
+
+  - title: '<span class="fake-header-table">Learning the `Tidyverse`</span>'
+    header: True
+
+  - title: "**Lecture/Lab 2: Loading Data, data.frames, and Visualization with `ggplot2` Part 1**"
+    date: "April 16"
+    class: "02-class"
+    reading: "02-reading"
+    
+  - title: "**Drop in Lab time/Finish Notebook 2**"
+    date: "April 23"
+# blash
+  - title: "**Notebooks 1 and 2 due**"
+    date: "April 24"
+
+  - title: "**Lecture/Lab 3: Visualization using `ggplot2` part 2, Filtering, Sorting, and Selecting data using `dplyr`**"
+    date: "April 30"
+    
+  - title: "**Lecture/Lab 4: Mutating and Summarizing data using `dplyr`**"
+    date: "May 7"
+    
+  - title: "**Drop in Lab time/Finish Notebook 4**"
+    date: "May 14"
+    
+  - title: "**Notebooks 3 and 4 due**"
+    date: "May 14"
+    
+  - title: "**Lecture/Lab 5: Stats and Modeling Using `broom`**"
+    date: "May 21"
+    
+  - title: "Final Project Assigned"
+    date: "May 21"
+    

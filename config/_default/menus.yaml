@@ -1,0 +1,13 @@
+main:
+  - name: Syllabus
+    url: /syllabus/
+    weight: 1
+  - name: Schedule
+    url: /schedule/
+    weight: 2
+  - name: Mailing List
+    url: /mailing/
+    weight: 3
+  - name: Reference
+    url: /labbook/
+    weight: 4
